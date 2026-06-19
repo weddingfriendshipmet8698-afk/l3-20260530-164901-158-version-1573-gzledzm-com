@@ -1,0 +1,21 @@
+{
+  "movies_parsed": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "source_count": 20,
+  "html_pages": 2014,
+  "jpg_files_in_zip": 0,
+  "category_counts": {
+    "热播剧集": 200,
+    "精选电影": 200,
+    "奇幻冒险": 200,
+    "爱情治愈": 200,
+    "悬疑推理": 200,
+    "动作战争": 200,
+    "喜剧生活": 200,
+    "科幻动漫": 200,
+    "纪录人文": 200,
+    "经典佳作": 200
+  },
+  "baidu_html_pages": 2014
+}
